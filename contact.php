@@ -1,5 +1,6 @@
 <?php 
-include("includes/header.inc.php")
+include("includes/header.inc.php");
+
  ?>
 
      <div class="row">
