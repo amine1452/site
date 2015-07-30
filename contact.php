@@ -1,4 +1,6 @@
-<?php include("includes/header.inc.php"); ?>
+<?php 
+include("includes/header.inc.php")
+ ?>
 
      <div class="row">
       <form action="<?php echo "http://".$_SERVER["HTTP_HOST"].$_SERVER["PHP_SELF"]; ?>" method="POST">
